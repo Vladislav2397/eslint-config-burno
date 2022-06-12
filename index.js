@@ -4,5 +4,6 @@ module.exports = {
     },
     rules: {
         semi: ['warn', "newer"],
+        indent: ['warn', 4],
     }
 };
