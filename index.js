@@ -3,6 +3,6 @@ module.exports = {
         MyGlobal: true,
     },
     rules: {
-        semi: ['warn', "newer"]
+        semi: ['warn', "newer"],
     }
 };

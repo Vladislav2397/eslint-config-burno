@@ -2,6 +2,7 @@
   "name": "eslint-config-burno",
   "version": "1.0.0",
   "description": "Eslint configuration burno.tech",
+  "repository": "https://github.com/Vladislav2397/eslint-config-burno",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
